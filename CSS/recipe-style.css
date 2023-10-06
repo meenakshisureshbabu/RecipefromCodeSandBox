@@ -1,0 +1,29 @@
+body {
+  background-color: #ffee70;
+  margin-left: 50px;
+}
+
+#ingredients-img {
+  height: 200px;
+  width: 200px;
+}
+
+#banana-pudding-img {
+  height: 300px;
+  width: 500px;
+}
+
+.title {
+  font-family: cursive;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+.method-div {
+  background-color: white;
+  border-style: solid;
+}
